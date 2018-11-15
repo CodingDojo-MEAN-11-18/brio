@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>JS Objects</title>
-    <script type="text/javascript">
-
         // challenge 1
         const students = [
             { name: 'Remy', cohort: 'Jan' },
@@ -43,14 +37,4 @@
             }
         };
 
-
-
-
-    </script>
-</head>
-
-<body>
-</body>
-
-</html>
 
